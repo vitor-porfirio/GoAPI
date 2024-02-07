@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Bem-vindo à API minimalista em Golang! Este projeto fornece uma estrutura simples para uma API usando Docker e MySQL.
+Este projeto fornece uma estrutura simples para uma API em Golang, usando Docker e MySQL.
 
 ## Pré-requisitos
 
@@ -12,8 +12,8 @@ Certifique-se de ter o Docker instalado em sua máquina antes de prosseguir.
 
 1. **Clone este repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/sua-api-golang.git
-    cd sua-api-golang
+    git clone https://github.com/vitor-porfirio/GoAPI.git
+    cd GoAPI
     ```
 
 2. **Inicie os contêineres Docker usando o Docker Compose:**
@@ -46,6 +46,4 @@ Execute as requisições no arquivo `test.http` para verificar se a API está fu
 
 ## Contribuindo
 
-Se você encontrar problemas ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-Divirta-se codificando! 🚀
+Se você encontrar problemas ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request. 🚀
